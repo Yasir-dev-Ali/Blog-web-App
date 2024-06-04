@@ -1,0 +1,100 @@
+[
+     
+      {
+        "title": "Introduction to React Hooks",
+        "image":"https://cdn.codersociety.com/uploads/react-hooks.jpeg",
+        "content": "In this blog post, we explore the concept of React Hooks and how they revolutionize the way we write React components. We'll cover useState, useEffect, and custom hooks.",
+        "author": "John Doe",
+        "published": "2023-01-15"
+
+      },
+      {
+        "title": "Getting Started with Python",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlfnyAe89JaNjMj5hdRoS69E0DCsVDPgsdw&s",
+        "content": "Python is a versatile and beginner-friendly programming language. In this blog post, we'll guide you through the basics of Python programming and help you get started on your coding journey.",
+        "author": "Jane Smith",
+        "published": "2023-02-20"
+      },
+      {
+        "title": "Node.js Best Practices",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgrRi-mP79CUWRbSHJPBmZKaNoi2mcBomOw&s",
+        "content": "Node.js is a powerful runtime for building server-side applications. In this blog post, we'll discuss best practices for writing efficient and scalable Node.js applications.",
+        "author": "Michael Johnson",
+        "published": "2023-03-10"
+      },
+      {
+        "title": "Machine Learning Fundamentals",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UinLPsJGNTlGsTbo-CXx4Ul3lDYTLx3RsA&s",
+        "content": "Machine learning is a fascinating field with endless possibilities. In this blog post, we'll cover the fundamental concepts of machine learning and provide resources for further learning.",
+        "author": "Emily Wong",
+        "published": "2023-04-05"
+      },
+      {
+        "title": "Exploring GraphQL",
+        "image":"https://www.google.com/imgres?q=Exploring%20GraphQL&imgurl=https%3A%2F%2Fmedia.dev.to%2Fcdn-cgi%2Fimage%2Fwidth%3D1600%2Cheight%3D900%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%253A%252F%252Fdev-to-uploads.s3.amazonaws.com%252Fuploads%252Farticles%252Fpw9slegdfv9e1kbqbnf5.png&imgrefurl=https%3A%2F%2Fdev.to%2Fbitovi%2Fgraphql-everything-you-need-to-know-1nbm&docid=JAeBpC0TrysmmM&tbnid=53MWFm1iWX7EeM&vet=12ahUKEwjR3b6vspCGAxVfYPEDHW2OCQwQM3oECCAQAA..i&w=1600&h=900&hcb=2&ved=2ahUKEwjR3b6vspCGAxVfYPEDHW2OCQwQM3oECCAQAA",
+        "content": "GraphQL is a modern query language for APIs that provides a more efficient and flexible alternative to REST. In this blog post, we'll explore the basics of GraphQL and how it can improve data fetching in web applications.",
+        "author": "Chris Lee",
+        "published": "2023-05-12"
+      },
+      {
+        "title": "Deep Dive into Docker",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBgAFGis_4sWs1zfdsGxmZGY6pz-K4rPJAfw&s",
+        "content": "Docker is a popular containerization platform that simplifies the process of deploying applications. In this blog post, we'll take a deep dive into Docker and explore its key concepts and features.",
+        "author": "Alexandre Martin",
+        "published": "2023-06-20"
+      },
+      {
+        "title": "Web Development Trends 2023",
+        "image":"https://www.google.com/imgres?q=Web%20Development%20Trends%202023&imgurl=https%3A%2F%2Fcdn.techjuice.pk%2Fwp-content%2Fuploads%2F2023%2F01%2Fimages-1-7.jpeg&imgrefurl=https%3A%2F%2Fwww.techjuice.pk%2F10-web-development-trends-in-2023%2F&docid=wGaG8O1iXJH2ZM&tbnid=oe1tqBvE-MkuSM&vet=12ahUKEwiVvuiWs5CGAxXMSPEDHWvSDhQQM3oECHsQAA..i&w=691&h=444&hcb=2&ved=2ahUKEwiVvuiWs5CGAxXMSPEDHWvSDhQQM3oECHsQAA",
+        "content": "The field of web development is constantly evolving. In this blog post, we'll discuss the latest trends and technologies shaping the future of web development in 2023.",
+        "author": "Sophia Garcia",
+        "published": "2023-07-08"
+      },
+      {
+        "title": "Cybersecurity Basics for Developers",
+        "content": "Cybersecurity is a critical aspect of modern software development. In this blog post, we'll cover the basics of cybersecurity and provide tips for developers to enhance the security of their applications.",
+        "author": "Daniel Brown",
+        "published": "2023-08-15"
+      },
+      {
+        "title": "Introduction to Data Science",
+        "content": "Data science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from data. In this blog post, we'll provide an introduction to data science and its applications.",
+        "author": "Olivia Taylor",
+        "published": "2023-09-22"
+      },
+      {
+        "title": "Responsive Web Design Techniques",
+        "content": "With the increasing use of mobile devices, responsive web design has become essential for creating a positive user experience. In this blog post, we'll explore techniques for building responsive websites that adapt to various screen sizes.",
+        "author": "William Johnson",
+        "published": "2023-10-10"
+      },
+      {
+        "title": "JavaScript Frameworks Comparison",
+        "content": "JavaScript frameworks like React, Angular, and Vue.js have become popular choices for building modern web applications. In this blog post, we'll compare the features and performance of these frameworks to help you choose the right one for your project.",
+        "author": "Ethan Wilson",
+        "published": "2023-11-18"
+      },
+      {
+        "title": "Introduction to Blockchain Technology",
+        "content": "Blockchain technology is revolutionizing industries such as finance, healthcare, and supply chain management. In this blog post, we'll provide an introduction to blockchain technology and its potential applications.",
+        "author": "Isabella Martinez",
+        "published": "2023-12-05"
+      },
+      {
+        "title": "Advanced CSS Techniques",
+        "content": "CSS is a powerful styling language that allows developers to create visually appealing web pages. In this blog post, we'll explore advanced CSS techniques such as flexbox, grid layout, and CSS animations.",
+        "author": "Lucas Anderson",
+        "published": "2024-01-15"
+      },
+      {
+        "title": "The Future of Artificial Intelligence",
+        "content": "Artificial intelligence is advancing at a rapid pace, with applications ranging from virtual assistants to autonomous vehicles. In this blog post, we'll discuss the current state of AI technology and its potential future developments.",
+        "author": "Ava Thompson",
+        "published": "2024-02-20"
+        }
+           
+
+       
+    ]
+
+       
